@@ -11,7 +11,6 @@ output:
 require(knitr)
 require(tidyverse)
 require(tigerstats)
-
 GSS = read.csv("GSScsv.csv")
 ```
 
